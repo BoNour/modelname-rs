@@ -1,0 +1,12 @@
+[package]
+name = "modelname"
+version = "0.1.0"
+edition = "2021"
+description = "Parse AI model names like claude-sonnet-4-5 or gemini-2.5-flash into vendor, family and version"
+license = "MIT"
+repository = "https://github.com/BoNour/modelname-rs"
+readme = "README.md"
+keywords = ["llm", "ai", "parser", "model", "openai"]
+categories = ["parser-implementations", "text-processing"]
+
+[dependencies]
